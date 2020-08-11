@@ -71,5 +71,4 @@ To install sass on your computer globally then follow the steps [here](https://s
 
 ---
 
-> [alphaconsole.net](http://www.alphaconsole.net/) &nbsp;&middot;&nbsp;
 > Twitter [@alphaconsole](https://twitter.com/alphaconsole)
